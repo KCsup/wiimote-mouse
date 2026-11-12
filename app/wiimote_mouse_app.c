@@ -10,8 +10,9 @@ void move_cursor_to_center() {
 int main() {
 	while(1)
 	{
-		move_cursor_to_center();
-		Sleep(1000);
+		// middle mouse is currently clicked
+		if(GetAsyncKeyState(VK_MBUTTON) & 0x8000)
+			move_cursor_to_center();
 	}
     return 0;
 }
