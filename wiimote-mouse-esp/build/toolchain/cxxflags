@@ -1,0 +1,7 @@
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=C:/Users/Josh Fernandez/Documents/MTU/Classes/Y3-S1/EE3174/final-proj/wiimote-mouse/wiimote-mouse-esp/build/specs/picolibc.specs"
+-fno-rtti

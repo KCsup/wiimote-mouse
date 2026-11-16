@@ -1,0 +1,7 @@
+source "C:/esp/v6.0.1/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/esp/v6.0.1/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/esp/v6.0.1/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "C:/esp/v6.0.1/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "C:/esp/v6.0.1/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/esp/v6.0.1/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/Josh Fernandez/Documents/MTU/Classes/Y3-S1/EE3174/final-proj/wiimote-mouse/wiimote-mouse-esp/bluepad32/external/btstack/port/esp32/components/btstack/Kconfig.projbuild"
